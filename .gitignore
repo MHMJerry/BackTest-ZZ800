@@ -1,0 +1,17 @@
+__pycache__
+
+# zip
+*.zip
+
+# data
+data/tmp/
+data/tmpBefore
+data/*.txt
+
+
+# tmp
+tmp.csv
+tmp.txt
+tmp.ipynb
+
+
