@@ -4,9 +4,7 @@ __pycache__
 *.zip
 
 # data
-data/tmp/
-data/tmpBefore
-data/*.txt
+data/
 
 # res
 res*/
