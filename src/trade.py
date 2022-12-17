@@ -71,7 +71,7 @@ class BackTest():
         self.longPosition = pd.read_excel(
             f'./{self.positionPath}').set_index('trade_date')
         self.shortPosition = pd.read_csv(
-            f'./strategy_raw_to/future_position_{self.shortCode}.csv').set_index('changeDate')
+            f'./strategy_short/future_position_{self.shortCode}.csv').set_index('changeDate')
 
     def get_last_month(self, date):
         """calculate last month

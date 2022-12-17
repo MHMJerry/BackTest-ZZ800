@@ -8,10 +8,15 @@ data/tmp/
 data/tmpBefore
 data/*.txt
 
+# res
+res*/
 
 # tmp
 tmp.csv
 tmp.txt
 tmp.ipynb
 
+# strategy
+strategy*/
+!strategy_short/
 
