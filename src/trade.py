@@ -529,7 +529,7 @@ class BackTest():
 
 
 # if __name__ == '__main__':
-#     ins = BackTest('res_prof/monthly_roa_ttm_vw/monthly_roa_ttm_vw_0.4',
-#  'strategy_roa_mod/strategy_monthly_roa_ttm_vw.xlsx',
-#  0.4)
+#     ins = BackTest('res_1226/dacc_ew/dacc_ew_0',
+#  'strategy_1226/strategy_dacc_ew.xlsx',
+#  0)
 #     ins.run()  # run
